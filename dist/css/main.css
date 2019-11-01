@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width:1000px;
+    height:100px;
+    background: pink;
+    margin:0 auto;
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+}
+.footer{
+    width:1000px;
+    height:100px;
+    background: rgb(0, 255, 115);
+    color:#fff;
+    margin:0 auto;
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 100px;
+}
+.main{
+    width:1000px;
+    height:500px;
+    background: rebeccapurple;
+    text-align: center;
+    margin: 0 auto;
+    font-size:30px;
+    font-weight: bold;
+
+}

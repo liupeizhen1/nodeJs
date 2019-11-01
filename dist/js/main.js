@@ -1,0 +1,1 @@
+var header=document.querySelector(".header"),footer=document.querySelector(".footer");header.onclick=function(){this.style.color="red"},footer.onclick=function(){this.style.color="green"};var main=document.querySelector(".main");main.onclick=function(){this.style.color="yellow"};
